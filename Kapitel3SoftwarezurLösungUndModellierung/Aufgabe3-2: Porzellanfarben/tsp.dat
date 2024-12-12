@@ -1,0 +1,27 @@
+# Set of products
+set FARBEN := "ROT" "GELB" "BLAU";
+
+param mischen_max := 42;
+param abfüllen_max := 40;
+param verpacken_max := 45;
+# Contribution margins (€ per unit)
+param contrib :=
+    "ROT" 24
+    "GELB" 22
+    "BLAU" 45;
+
+param mischen :=
+    "ROT" 2
+    "GELB" 1
+    "BLAU" 3;
+
+param abfüllen :=
+    "ROT" 2
+    "GELB" 1
+    "BLAU" 2;
+
+
+param verpacken :=
+    "ROT" 1
+    "GELB" 0.5
+    "BLAU" 1;

@@ -1,0 +1,8 @@
+a) Bei Erhöhung der MischenRestriktion um eine Einheit erhöht sich der Zielfunktionswert um 1. Analog bei AbfüllenRestriktion.dual = 21, VerpackenRestriktion.dual = 0
+b) Die reduzierten Kosten der Farbe Rot liegt bei -20. Wird statt null Einheiten also eine produziert steigen die Kosten bzw. der Gewinn sinkt um -20 Geldeinheiten. Die Farbe Rot müsste 20 GE mehr Deckungsbreitag, sprich 44 GE bringen.  
+c) Zielfunktionswert sinkt um 20 GE.
+d) Würde nur die AbfüllenRestriktion bestehen, wäre die optimale Lösung, nur BLAU zu produzieren. BLAU erwirtschaftet mehr als den doppelten Gewinn von GELB.
+Da allerdings auch die MischenRestriktion existiert und hier das Input Verhältnis zwischen GELB und BLAU 1/3 ist, das Gewinnverhältnis aber nur 1/2, ist GELB im Schnitt wirtschaftlicher als BLAU.
+
+Bei GELB=36 bleiben noch 4 Einheiten Arbeitszeit beim Abfüllen, bevor diese Restriktion gebrochen wird. Sie wird zuerst gebrochen, bevor die MischenRestriktion gebrochen wird. Bei diesen verbleibenden 4 Zeiteinheiten können entweder
+4 Einheiten GELB produziert werden oder zwei Einheiten BLAU. Da BLAU mehr als doppelt soviel DB erwirtschaftet ist das nützlicher.
