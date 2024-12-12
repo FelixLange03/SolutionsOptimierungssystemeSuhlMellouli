@@ -1,0 +1,21 @@
+data;
+
+set PRODUKTE := Compact Midsize Large;
+
+param stahl_max := 6000;
+param arbeitsstunden_max := 60000;
+
+param stahl := 
+    Compact 1.5 
+    Midsize 3 
+    Large 5;
+
+param arbeitsstunden := 
+    Compact 30 
+    Midsize 25 
+    Large 40;
+
+param deckungsbeitrag := 
+    Compact 2000 
+    Midsize 3000 
+    Large 4000;
