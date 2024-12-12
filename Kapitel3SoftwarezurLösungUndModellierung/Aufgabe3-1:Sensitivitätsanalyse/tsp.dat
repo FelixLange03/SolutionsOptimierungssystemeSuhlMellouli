@@ -1,0 +1,24 @@
+# Set of products
+set PROD := "PROD 1" "PROD 2" "PROD 3";
+
+# Contribution margins (€ per unit)
+param contrib :=
+    "PROD 1" 4
+    "PROD 2" 2
+    "PROD 3" 3;
+
+# Labor requirements (minutes per unit)
+param labor :=
+    "PROD 1" 6
+    "PROD 2" 2
+    "PROD 3" 2;
+
+# Raw material requirements (units per unit)
+param material :=
+    "PROD 1" 6
+    "PROD 2" 2
+    "PROD 3" 6;
+
+# Available resources
+param labor_avail := 200;    # Total labor available (minutes)
+param material_avail := 400; # Total raw material available (units)

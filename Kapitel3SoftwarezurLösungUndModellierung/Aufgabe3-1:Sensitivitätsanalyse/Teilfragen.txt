@@ -1,0 +1,3 @@
+a) Die Restriktionen werden mit x1=1, x2=47 und x3=50 voll ausgeschöpft. Eine Erweiterung der Kapazitäten würde sich also lohnen. Siehe positive Schattenpreise der beiden Restriktionen.
+b) x1 wird in optimalen Programm nicht produziert. Die Zielfunktion verschlechtert sich um zwei Euro bei Produktion einer Einheit von x1. Der Deckungsbeitrag von x1 müsste also bei >= 6 liegen.
+c) Der optimale Zielfunktionswert verschlechtert sich um zwei Euro.
