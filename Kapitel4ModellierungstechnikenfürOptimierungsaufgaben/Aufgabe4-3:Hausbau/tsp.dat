@@ -1,0 +1,6 @@
+
+set HÄUSER := "EF-HAUS" "DOPPELHAUS" "3F-HAUS";
+
+param deckungsbeitrag := "EF-HAUS" 20000 "DOPPELHAUS" 24000 "3F-HAUS" 30000;
+param fläche := "EF-HAUS" 800 "DOPPELHAUS" 1000 "3F-HAUS" 1200;
+param fläche_max := 90000;

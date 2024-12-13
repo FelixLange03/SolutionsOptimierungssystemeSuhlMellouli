@@ -1,0 +1,4 @@
+a) AMPL löst hier aus irgendeinem Grund immer für EF-HÄUSER = 112.5. Ich behaupte, dass eine Alternative Lösung auch 3F-Häuser = 75 wäre. Beide gleicher Deckungsbeitrag. Warum AMPL sich hier für ersteres entscheidet, weiss ich nicht.
+b) Lösung ändert sich nicht. DOPPELHAUS belibt weiter weniger lukrativ als EF-HÄUSER oder 3F-HÄUSER.
+c) Lösung ändert sich erneut nicht 112.5 EF-HÄUSER weiter optimale Lösung -> es gibt weniger als 150 Familien -> es muss nicht für Kindergarten gezahlt werden.
+d) Lösung ändert sich weiterhin nicht. 112.5 * 1000 <= 150000 und somit werden vom Gewinn einfach die 112500 abgezogen, nicht die 150000. 
