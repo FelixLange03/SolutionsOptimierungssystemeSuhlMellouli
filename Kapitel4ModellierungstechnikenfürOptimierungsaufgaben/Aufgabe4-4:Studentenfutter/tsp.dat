@@ -1,0 +1,10 @@
+
+set SORTE := "PROFESSOR" "STUDENTEN" "MITARBEITER";
+set NÜSSE := "WALNUSS" "HASELNUSS" "ERDNUSS" "ROSINEN";
+
+param verkaufspreis := "PROFESSOR" 4.20 "STUDENTEN" 3.60 "MITARBEITER" 2.90;
+param einkaufspreis := "WALNUSS" 3.00 "HASELNUSS" 2.50 "ERDNUSS" 1.00 "ROSINEN" 2.20;
+param menge_max_wn := 100;
+param menge_max_hn := 70;
+param menge_max_en = 120;;
+param menge_max_r := 25;
