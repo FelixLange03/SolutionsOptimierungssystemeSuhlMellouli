@@ -1,0 +1,7 @@
+
+set GEBIETE := "A" "B" "C" "D" "E";
+
+param investitionskosten := "A" 1300 "B" 1600 "C" 1200 "D" 1000 "E" 900;
+param ertrag :=  "A" 1100 "B" 1200 "C" 2400 "D" 1200 "E" 1300;
+param bauzeit :=  "A" 80 "B" 200 "C" 110 "D" 90 "E" 70;
+param max_bauzeit := 500;
