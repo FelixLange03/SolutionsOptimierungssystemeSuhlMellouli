@@ -42,12 +42,14 @@ $$
 Gute Werte für Big-M ergeben sich durch Abschätzung obere Schranke. Siehe unten.
 ## Teilfrage d
 $$
-\text{max } z = 2x_1 + 1.5x_2 \\
-2x_1 + x_2 -1000 \leq 500 \cdot \left( 1 - y_1 \right) \\
-x_1 + x_2 - 800 \leq 300 \cdot \left( 1 - y_2 \right) \\
-y_1 + y_2 \geq 1 \\
-x_1 \leq 400 \\
-x_2 \leq 700 \\
-x_1 , x_2 \geq 0 \\
+\begin{aligned}
+\text{max } z &= 2x_1 + 1.5x_2 \\
+2x_1 + x_2 - 1000 &\leq 500 \cdot \left( 1 - y_1 \right) \\
+x_1 + x_2 - 800 &\leq 300 \cdot \left( 1 - y_2 \right) \\
+y_1 + y_2 &\geq 1 \\
+x_1 &\leq 400 \\
+x_2 &\leq 700 \\
+x_1, x_2 &\geq 0
+\end{aligned}
 $$
 
