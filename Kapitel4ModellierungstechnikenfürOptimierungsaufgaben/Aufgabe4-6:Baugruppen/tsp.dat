@@ -1,0 +1,11 @@
+
+set BAUGRUPPE := "P1" "P2" "P3";
+
+param ertrag := "P1" 12 "P2" 18 "P3" 50;
+param teilfertigung :=  "P1" 2 "P2" 4 "P3" 0;
+param vormontage :=  "P1" 3 "P2" 2 "P3" 2;
+param endmontage := "P1" 1 "P2" 5 "P3" 1;
+
+param teilfertigung_max = 400;
+param vormontage_max = 500;
+param endmontage_max = 350;
