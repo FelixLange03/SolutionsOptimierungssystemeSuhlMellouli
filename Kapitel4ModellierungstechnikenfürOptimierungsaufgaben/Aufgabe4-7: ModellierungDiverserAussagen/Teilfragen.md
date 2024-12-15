@@ -35,8 +35,9 @@ $$
 Hiermit wird gesichert, dass für y[j]=0 die LHS >= 0 ist, also nicht erfüllt ist. Für y[j]=1 entsteht hier keine Einschränkung.
 
 Die zweite Restriktion muss entsprechend angepasst werden.
+
 $$
-\sum_{j=1}^n y_j \leq k 
+\sum_{j=1}^n y_j \leq k
 $$
 
 Gute Werte für Big-M ergeben sich durch Abschätzung obere Schranke. Siehe unten.
